@@ -1,12 +1,14 @@
 # DNN
 
 ## RESNET
-resnet18.py : ResNeT18 model 활용 fashin mnist classification 수행
-resnet36.py : ResNeT36 model 활용 fashin mnist classification 수행
+model/resnet18.py : ResNeT18 model 활용 fashin mnist classification 수행
+
+model/resnet36.py : ResNeT36 model 활용 fashin mnist classification 수행
 
 ## AlexNeT
-AlexNeT.py : AlexNeT model 활용 fashin mnist classification 수행
-LeNeT5.py : LeNeT model 활용 fashin mnist classification 수행
+model/AlexNeT.py : AlexNeT model 활용 fashin mnist classification 수행
+
+model/LeNeT5.py : LeNeT model 활용 fashin mnist classification 수행
 
 
 
