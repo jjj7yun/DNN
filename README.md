@@ -1,7 +1,13 @@
 # DNN
 
-## 369 MLP
-369 게임을 다층 퍼셉트론으로 구현
+## RESNET
+resnet18.py : ResNeT18 model 활용 fashin mnist classification 수행
+resnet36.py : ResNeT36 model 활용 fashin mnist classification 수행
+
+## AlexNeT
+AlexNeT.py : AlexNeT model 활용 fashin mnist classification 수행
+LeNeT5.py : LeNeT model 활용 fashin mnist classification 수행
+
 
 
 ## gradient
@@ -25,3 +31,10 @@ Function 3 (𝑦 = 𝑠𝑖𝑛(𝑥)𝑐𝑜𝑠(𝑥) + 1)
 
 <img src="https://user-images.githubusercontent.com/79688191/145775770-a513a499-ca40-44fd-9a22-abbfdcca6863.png" width="500" height="300"/>
 <img src="https://user-images.githubusercontent.com/79688191/145775829-97b3959c-399c-4cdf-a4b4-2cb988b7148a.png" width="300" height="300"/>
+
+
+
+
+
+## 369 MLP
+369 게임을 다층 퍼셉트론으로 구현
