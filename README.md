@@ -5,6 +5,8 @@ model/resnet18.py : ResNeT18 model 활용 fashin mnist classification 수행
 
 model/resnet36.py : ResNeT36 model 활용 fashin mnist classification 수행
 
+![image](https://user-images.githubusercontent.com/79688191/145777750-0765954b-2a8e-4c31-af10-d832b7dada57.png)
+
 ## AlexNeT
 model/AlexNeT.py : AlexNeT model 활용 fashin mnist classification 수행
 
