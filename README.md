@@ -1,5 +1,13 @@
 # DNN
 
+## 네이버 영화리뷰 감성 분석
+RNN,LSTM 
+
+## 번역모델링
+Seq2seq
+
+
+
 ## RESNET
 model/resnet18.py : ResNeT18 model 활용 fashin mnist classification 수행
 
