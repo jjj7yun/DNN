@@ -1,7 +1,8 @@
 # DNN
 
 ## 네이버 영화리뷰 감성 분석
-RNN,LSTM 
+RNN,LSTM 으로 구현
+nsmc 전처리
 
 ## 번역모델링
 Seq2seq
